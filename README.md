@@ -13,5 +13,5 @@ Our solution included analytics based on different categories.
 Sending mail is implemented using the following two python libraries
 * email 
 * smtplib
-* 
+
 Used Seaborn library for the Analytics.
