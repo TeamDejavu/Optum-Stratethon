@@ -10,8 +10,8 @@ Our solution included analytics based on different categories.
 * We built an AI model which predicts number of days in which a person could fall into illness.
 * Automized emails and messages can be sent to people to remind of taking medicines.
 
-Sending mail is implemented using the following two python libraries 
-* smtplib
+Sending mail is implemented using the following two python libraries
 * email 
-
+* smtplib
+* 
 Used Seaborn library for the Analytics.
